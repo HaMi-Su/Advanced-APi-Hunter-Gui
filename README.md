@@ -32,8 +32,8 @@ It combines **Dynamic Interception** (using Playwright headless browser automati
 ### Setup Instructions
 
 1. **Clone the Repository**:
-   ```bash
-   git clone [https://github.com/your-username/api-endpoint-finder.git](https://github.com/your-username/api-endpoint-finder.git)
+   ```bash[
+   [git clone [https://github.com/your-username/api-endpoint-finder.git](https://github.com/your-username/api-endpoint-finder.git](https://github.com/HaMi-Su/Advanced-APi-Hunter-Gui.git))](https://github.com/HaMi-Su/Advanced-APi-Hunter-Gui.git)
    cd api-endpoint-finder
     
 
