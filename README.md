@@ -3,6 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![GUI Framework](https://img.shields.io/badge/GUI-Tkinter-orange)
+![Developer](https://img.shields.io/badge/Developer-Hami__Super__user-brightgreen)
 
 An advanced Python-based GUI application designed for security researchers, penetration testers, and developers to discover hidden API endpoints, GraphQL routes, and dynamic AJAX requests from websites.
 
@@ -21,9 +22,16 @@ It combines **Dynamic Interception** (using Playwright headless browser automati
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Installation & Requirements
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/api-endpoint-finder.git](https://github.com/your-username/api-endpoint-finder.git)
-cd api-endpoint-finder
+### Dependencies (`requirements.txt`)
+- `requests>=2.31.0`
+- `beautifulsoup4>=4.12.0`
+- `playwright>=1.40.0`
+
+### Setup Instructions
+
+1. **Clone the Repository**:
+   ```bash
+   git clone [https://github.com/your-username/api-endpoint-finder.git](https://github.com/your-username/api-endpoint-finder.git)
+   cd api-endpoint-finder
