@@ -35,3 +35,27 @@ It combines **Dynamic Interception** (using Playwright headless browser automati
    ```bash
    git clone [https://github.com/your-username/api-endpoint-finder.git](https://github.com/your-username/api-endpoint-finder.git)
    cd api-endpoint-finder
+
+
+   <!-- README.md ke baaqi sections ke baad neeche ye add karein -->
+
+---
+
+## 👨‍💻 Developer Information
+
+- **Developer:** Hami_Super_user
+- **Role:** Security Researcher & Python Developer
+
+---
+
+## 💖 Donate & Support
+
+
+- ☕ **Buy Me a Coffee:** [buymeacoffee.com/your_username](https://buymeacoffee.com/)
+- 🪙 **Crypto / Wallet:** `0x1234567890abcdef...`
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is created for educational and authorized security assessment purposes only. Unauthorized testing against target websites without prior consent is strictly prohibited.
